@@ -1,0 +1,29 @@
+22-06-2022 19:59:33.670 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStarting - Starting RedisSpringDataApplicationKt using Java 17.0.3.1 on LAPTOP-441GBTH2 with PID 27176 (C:\Users\atul2\kotlin-dev\spring-redis\target\classes started by atul2 in C:\Users\atul2\kotlin-dev\spring-redis)
+22-06-2022 19:59:33.691 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+22-06-2022 19:59:39.633 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStarted - Started RedisSpringDataApplicationKt in 6.789 seconds (JVM running for 11.293)
+22-06-2022 20:16:33.898 [http-nio-8090-exec-5] INFO  c.a.test.controller.ActorController.createActor - Actor Service createActor: ActorDto(firstName=Mark, lastName=johnson, birthDate=1974-06-22)
+22-06-2022 20:25:45.347 [http-nio-8090-exec-9] INFO  c.a.test.controller.ActorController.addActorToMovie - addActorToMovie: 91ca7e30-fc4c-45b5-8b86-03dbc7171d4e link 0c0f23b2-450e-4cab-bd7b-1dcf8caec176
+22-06-2022 20:34:08.047 [http-nio-8090-exec-10] INFO  c.a.test.controller.ActorController.getActors - getActors:
+22-06-2022 20:43:16.195 [http-nio-8090-exec-4] INFO  c.a.test.controller.ActorController.getActorById - Actor Service getActorById: 1f5fcd78-3596-49ff-ad92-2e64e457d960
+23-06-2022 17:35:14.271 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStarting - Starting RedisSpringDataApplicationKt using Java 17.0.3.1 on LAPTOP-441GBTH2 with PID 30044 (C:\Users\atul2\kotlin-dev\spring-redis\target\classes started by atul2 in C:\Users\atul2\kotlin-dev\spring-redis)
+23-06-2022 17:35:14.278 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+23-06-2022 17:35:21.519 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStarted - Started RedisSpringDataApplicationKt in 8.087 seconds (JVM running for 12.999)
+23-06-2022 17:35:55.625 [http-nio-8090-exec-1] INFO  c.a.test.controller.ActorController.getActors - getActors:
+23-06-2022 17:36:28.121 [http-nio-8090-exec-2] INFO  c.a.test.controller.ActorController.getActors - getActors:
+23-06-2022 17:51:22.096 [http-nio-8090-exec-9] INFO  c.a.test.controller.ActorController.getActors - getActors:
+23-06-2022 18:58:09.809 [http-nio-8090-exec-6] INFO  c.a.test.controller.ActorController.getActors - getActors:
+23-06-2022 18:58:51.484 [http-nio-8090-exec-4] INFO  c.a.test.controller.ActorController.getActors - getActors:
+23-06-2022 19:11:55.870 [http-nio-8090-exec-2] INFO  c.a.test.controller.ActorController.getActors - getActors:
+24-06-2022 15:05:26.193 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStarting - Starting RedisSpringDataApplicationKt using Java 17.0.3.1 on LAPTOP-441GBTH2 with PID 7508 (C:\Users\atul2\kotlin-dev\spring-redis\target\classes started by atul2 in C:\Users\atul2\kotlin-dev\spring-redis)
+24-06-2022 15:05:26.200 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+24-06-2022 15:05:31.063 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStarted - Started RedisSpringDataApplicationKt in 5.621 seconds (JVM running for 10.127)
+24-06-2022 15:08:39.779 [http-nio-8090-exec-1] INFO  c.a.test.controller.ActorController.getActors - getActors:
+24-06-2022 15:14:02.623 [http-nio-8090-exec-6] INFO  c.a.test.controller.ActorController.getActors - getActors:
+24-06-2022 15:33:09.836 [http-nio-8090-exec-7] INFO  c.a.test.controller.ActorController.getActorById - Actor Service getActorById: 1f5fcd78-3596-49ff-ad92-2e64e457d960
+24-06-2022 15:40:07.345 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStarting - Starting RedisSpringDataApplicationKt using Java 17.0.3.1 on LAPTOP-441GBTH2 with PID 18764 (C:\Users\atul2\kotlin-dev\spring-redis\target\classes started by atul2 in C:\Users\atul2\kotlin-dev\spring-redis)
+24-06-2022 15:40:07.351 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+24-06-2022 15:40:12.540 [main] INFO  c.a.t.RedisSpringDataApplicationKt.logStarted - Started RedisSpringDataApplicationKt in 5.867 seconds (JVM running for 7.135)
+24-06-2022 15:40:27.501 [http-nio-8090-exec-2] INFO  c.a.test.controller.ActorController.getActors - getActors:
+24-06-2022 15:45:41.414 [http-nio-8090-exec-5] INFO  c.a.test.controller.ActorController.getActors - getActors:
+24-06-2022 16:00:55.018 [http-nio-8090-exec-9] INFO  c.a.test.controller.ActorController.getActors - getActors:
+24-06-2022 16:03:44.246 [http-nio-8090-exec-1] INFO  c.a.test.controller.ActorController.getActorById - Actor Service getActorById: 1f5fcd78-3596-49ff-ad92-2e64e457d960
