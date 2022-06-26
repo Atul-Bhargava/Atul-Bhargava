@@ -18,6 +18,6 @@ jobs:
         with: 
           java-version: '17'
       - name: Maven Package
-        run: cd spring-redis;mvn -B clean package -DskipTests
+        run: cd spring-redis;mvn -B clean install
       - name: Maven Verify
         run: cd spring-redis;mvn -B clean verify 
