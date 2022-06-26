@@ -17,11 +17,7 @@ jobs:
         uses: actions/setup-java@v1
         with: 
           java-version: '17'
-      - name: Cache Maven packages
-        uses: actions/cache@v1
-        with:
-          path: ~/.m2
-          key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
-          restore-keys: ${{ runner.os }}-m2
-      - name: Run Test
-        run: mvn -B test
+      - name: Maven Package
+        run: cd spring-redis;mvn -B clean package -DskipTests
+      - name: Maven Verify
+        run: cd spring-redis;mvn -B clean verify 
